@@ -1,0 +1,8 @@
+[submodule "arangors"]
+	path = arangors
+	url = https://github.com/Ostoyae/arangors.git
+	branch = develop
+[submodule "r2d2-arangodb"]
+	path = r2d2-arangodb
+	url = https://github.com/Ostoyae/r2d2-arangodb.git
+	branch = develop
