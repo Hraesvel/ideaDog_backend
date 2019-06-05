@@ -6,7 +6,7 @@
 	path = r2d2-arangodb
 	url = https://github.com/Ostoyae/r2d2-arangodb.git
 	branch = develop
-[submodule "ideaDog_Server"]
-	path = ideaDog_Server
-	url = https://github.com/Ostoyae/IdeaDog_Server.git
+[submodule "ideaDog_server"]
+	path = ideaDog_server
+	url = https://github.com/Ostoyae/ideaDog_server.git
 	branch = develop
