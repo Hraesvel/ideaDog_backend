@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/ideaDog_Server/app/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IdeaDog_Server/app/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IdeaDog_Server/app/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/IdeaDog_Server/app/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/ideaDog_Server/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IdeaDog_Server/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/IdeaDog_Server/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/IdeaDog_Server/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/arangors/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arangors/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/arangors/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/arangors/benches" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r2d2-arangodb/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r2d2-arangodb/examples" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/r2d2-arangodb/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/r2d2-arangodb/benches" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/IdeaDog_Server/app/target" />
+      <excludeFolder url="file://$MODULE_DIR$/arangors/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ideaDog_Server/target" />
+      <excludeFolder url="file://$MODULE_DIR$/r2d2-arangodb/target" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
